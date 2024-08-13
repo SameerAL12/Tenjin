@@ -15,18 +15,18 @@ jobs:
     env:
       IPADDR: 'https://yethi-test.tenjinonline.com'
       INSID: 'yethi-test'
-      APITOKEN: 'BLtzOI16bfz42xtL1A8nUmM9eFGO/rwEIRSYK8vcgGl9ShmZN/0WM4Ja/nCKxWeZXVAmOk5WgVPZYr57uoDANzoM5lF/M/m1+t4/niCjadwAoS9/r/6WYMCLPPnzpjUeA4dBDd9NjeWg0hQEJJnS15Xt++fXXsSf/XJ0UNVEVj3NpHBOGSXwRrb3sniTHNs2AHQ3ssor9sw/wHYFqhMjN8FtIP1JdyWBABzXwmkKcF9jsEZPZyH23UGS60mEqWUd5V5LbnXi0VH2MyOG76ul51rIyQ/aRv1Sv/gDDfeFRaBNWYv991GU0NdeTjuSQGouNV6VGC4viKwPQ+dHdxhNjQ=='
-      AGENTNAME: 'ponnar'
+      APITOKEN: 'V3ilJc2A2UDcGao18wgK0ZMu3V/4cEwSebkQTuCX/kWaY6qhW84mSIoG61Kzyylpiw5WOPJxyoNoH8DqNTcRLL2Jt+liaZ20KH9AIZSidLqvMfR9SM3GjSWIr4bQnDvuIl+R8rFZqwCKMuSY4qPlpDLGzje45twcms/s9PGGT792j/HTLG0O3Pk/1rnNPGgCFxpnpLwMikQM1rs3+B8OhXt9geux9iX38Vv7YnH5P5RI6lEYCOwvxzaAK+89PmKFBEBPOoYULaz5QUWHaBIT37I8u6MdFz2hoTxgrvbtxWx7JyMnBXjR2gOsy5Onncv9ZATl7sfXT5bY1na1XrRfKQ=='
+      AGENTNAME: 'samishu agent'
       INCLUDECLOUDDEVICE: 'FALSE'
       INCLUDECLOUDBROWSER: 'FALSE'
       DEVICENAME: ''
-      PROJECTKEY: 'PTO1'
+      PROJECTKEY: 'NTCP'
       BROWSER: 'chrome'
       REGION: 'UTC+05:30'
-      TESTRUNID: 'Test-Run-12561580'
+      TESTRUNID: 'Test-Run-12724082'
       ISCLOUDAGENT: 'FALSE'
       BROWSERVERSION: ''
-      OS: 'Windows 8.1'
+      OS: 'Windows 10'
       RUNONLYFAILED: 'FALSE'
 
     steps:
