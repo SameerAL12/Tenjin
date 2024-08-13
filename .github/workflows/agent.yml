@@ -16,7 +16,7 @@ jobs:
       IPADDR: 'https://yethi-test.tenjinonline.com'
       INSID: 'yethi-test'
       APITOKEN: 'V3ilJc2A2UDcGao18wgK0ZMu3V/4cEwSebkQTuCX/kWaY6qhW84mSIoG61Kzyylpiw5WOPJxyoNoH8DqNTcRLL2Jt+liaZ20KH9AIZSidLqvMfR9SM3GjSWIr4bQnDvuIl+R8rFZqwCKMuSY4qPlpDLGzje45twcms/s9PGGT792j/HTLG0O3Pk/1rnNPGgCFxpnpLwMikQM1rs3+B8OhXt9geux9iX38Vv7YnH5P5RI6lEYCOwvxzaAK+89PmKFBEBPOoYULaz5QUWHaBIT37I8u6MdFz2hoTxgrvbtxWx7JyMnBXjR2gOsy5Onncv9ZATl7sfXT5bY1na1XrRfKQ=='
-      AGENTNAME: 'samishu agent'
+      AGENTNAME: 'Sameer agent'
       INCLUDECLOUDDEVICE: 'FALSE'
       INCLUDECLOUDBROWSER: 'FALSE'
       DEVICENAME: ''
